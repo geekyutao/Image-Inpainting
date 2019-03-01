@@ -5,7 +5,7 @@ Please contact me (geekyutao@163.com) if you find an interesting paper that I've
 ## Traditional Methods
 Year|Proceeding|Title
 --|:--:|:--:
-2000|SIGGRAPH 2000|Image Inpainting [[paper]](http://delivery.acm.org/10.1145/350000/344972/p417-bertalmio.pdf?ip=222.195.92.10&id=344972&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1551443503_99c9339267441c12c919d872eb959b5e)
+2000|SIGGRAPH 2000|Image Inpainting [[paper]](ftp://138.96.0.43/odyssee/Team/Rachid.Deriche/Robotvis/Draft/bertalmi.pdf)
 2000|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[paper]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)
 2001|CVPR 2001|Navier-stokes, ﬂuid dynamics, and image and video inpainting [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=990497)
 2001|ACM 2001|Synthesizing Natural Textures [[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.359.8241&rep=rep1&type=pdf)
@@ -18,10 +18,10 @@ Year|Proceeding|Title
 2005|SIGGRAPH 2005|Image Completion with Structure Propagation [[paper]](http://jiansun.org/papers/ImageCompletion_SIGGRAPH05.pdf)
 2006|ISCS 2006|Image Compression with Structure Aware Inpainting [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692960)
 2007|CSVT 2007|Image Compression With Edge-Based Inpainting [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/inpainting_csvt_07.pdf)
-2009|SIGGRAPH 2009|PatchMatch: a randomized correspondence algorithm for structural image editing [[paper]](http://delivery.acm.org/10.1145/1540000/1531330/a24-barnes.pdf?ip=222.195.92.10&id=1531330&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1551450687_f469c2c3bac8f8cc26102afa298208eb)
+2009|SIGGRAPH 2009|PatchMatch: a randomized correspondence algorithm for structural image editing [[paper]](http://www.faculty.idc.ac.il/arik/seminar2009/papers/patchMatch.pdf)
 2011|FTCGV 2011|Structured learning and prediction in computer vision [[paper]](http://pub.ist.ac.at/~chl/papers/nowozin-fnt2011.pdf)
 2012|TOG 2012|Combining inconsistent images using patch-based synthesis[[paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)
-2014|TOG 2014|Image completion using Planar structure guidance [[paper]](http://delivery.acm.org/10.1145/2610000/2601205/a129-huang.pdf?ip=222.195.92.10&id=2601205&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1551452785_4eef1cbaad3c5d35213c17ed84149d58) [[code]](https://github.com/jbhuang0604/StructCompletion)
+2014|TOG 2014|Image completion using Planar structure guidance [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf) [[code]](https://github.com/jbhuang0604/StructCompletion)
 
 
 
