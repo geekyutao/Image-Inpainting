@@ -58,7 +58,7 @@ Year|Proceeding|Title
 2019|arXiv:1901.00212| EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[pdf]](https://arxiv.org/pdf/1901.00212.pdf) [[code]](https://github.com/knazeri/edge-connect)
 2019|arXiv:1901.03396|Detecting Overfitting of Deep Generative Networks via Latent Recovery [[pdf]](https://arxiv.org/pdf/1901.03396.pdf)
 2019|arXiv:1901.05945|Foreground-aware Image Inpainting [[pdf]](https://arxiv.org/pdf/1901.05945.pdf)
-2019|arXiv:1902.06838|SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color [[pdf]](https://arxiv.org/pdf/1902.06838.pdf)
+2019|arXiv:1902.06838|SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color [[pdf]](https://arxiv.org/pdf/1902.06838.pdf) [[code]](https://github.com/JoYoungjoo/SC-FEGAN)
 
 ------
 Last updating: Mar 3, 2019  
