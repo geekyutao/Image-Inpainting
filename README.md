@@ -5,7 +5,7 @@ Please contact me (geekyutao@163.com) if you find an interesting paper that I've
 ## Traditional Methods
 Year|Proceeding|Title
 --|:--:|:--:
-2000|SIGGRAPH 2000|**Image Inpainting** [[pdf]](ftp://138.96.0.43/odyssee/Team/Rachid.Deriche/Robotvis/Draft/bertalmi.pdf)
+2000|SIGGRAPH 2000|**Image Inpainting** [[pdf]](ftp://138.96.0.43/odyssee/Team/Rachid.Deriche/Robotvis/Draft/bertalmi.pdf)  
 2000|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)
 2001|CVPR 2001|Navier-stokes, ﬂuid dynamics, and image and video inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=990497)
 2001|SIGGRAPH 2001|Image Quilting for Texture Synthesis and Transfer [[pdf]]()  
@@ -74,5 +74,5 @@ Year|Proceeding|Title
 
 
 ------
-Last updating: Mar 4, 2019  
+Last updating: Mar 5, 2019  
 To be updated...
