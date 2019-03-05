@@ -52,7 +52,7 @@ Year|Proceeding|Title
 2018|ICRA 2019| Empty Cities: Image Inpainting for a Dynamic-Object-Invariant Space [[pdf]](https://arxiv.org/pdf/1809.10239.pdf)  
 2018|TOG 2018|Faceshop: Deep sketch-based face image editing [[pdf]](https://arxiv.org/pdf/1804.08972.pdf)
 2018|MM 2018|Structural inpainting [[pdf]](https://arxiv.org/pdf/1803.10348.pdf)
-2018|MM 2018|Semantic Image Inpainting with Progressive Generative Networks [[pdf]](http://delivery.acm.org/10.1145/3250000/3240625/p1939-zhang.pdf?ip=222.195.92.10&id=3240625&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1551777683_a46f27c81e3eec6e5adb83400980d163) [[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
+2018|MM 2018|Semantic Image Inpainting with Progressive Generative Networks [[pdf]](https://dl.acm.org/citation.cfm?id=3240625) [[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
 2018|BMVC 2018|SPG-Net: Segmentation Prediction and Guidance Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1805.03356.pdf)
 2018|ACCV 2018|Face Completion iwht Semantic Knowledge and Collaborative Adversarial Learning [[pdf]](https://arxiv.org/pdf/1812.03252.pdf)
 2018|ICASSP 2018|Edge-Aware Context Encoder for Image Inpainting [[pdf]](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0003156.pdf)
