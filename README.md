@@ -5,7 +5,7 @@ Please contact me (geekyutao@163.com) if you find an interesting paper that I've
 ## Traditional Methods
 Year|Proceeding|Title
 --|:--:|:--:
-2000|SIGGRAPH 2000|**Image Inpainting** [[pdf]](ftp://138.96.0.43/odyssee/Team/Rachid.Deriche/Robotvis/Draft/bertalmi.pdf)  
+2000|SIGGRAPH 2000|**Image Inpainting**  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf)  
 2000|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)
 2001|CVPR 2001|Navier-stokes, ﬂuid dynamics, and image and video inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=990497)
 2001|SIGGRAPH 2001|Image Quilting for Texture Synthesis and Transfer [[pdf]]()  
@@ -52,7 +52,7 @@ Year|Proceeding|Title
 2018|ICRA 2019| Empty Cities: Image Inpainting for a Dynamic-Object-Invariant Space [[pdf]](https://arxiv.org/pdf/1809.10239.pdf)  
 2018|TOG 2018|Faceshop: Deep sketch-based face image editing [[pdf]](https://arxiv.org/pdf/1804.08972.pdf)
 2018|MM 2018|Structural inpainting [[pdf]](https://arxiv.org/pdf/1803.10348.pdf)
-2018|MM 2018|Semantic Image Inpainting with Progressive Generative Networks [[pdf]](http://delivery.acm.org/10.1145/3250000/3240625/p1939-zhang.pdf?ip=222.195.92.10&id=3240625&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1551601727_b2810d8545be7ceb3645666d40c9af53) [[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
+2018|MM 2018|Semantic Image Inpainting with Progressive Generative Networks [[pdf]](http://delivery.acm.org/10.1145/3250000/3240625/p1939-zhang.pdf?ip=222.195.92.10&id=3240625&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1551777683_a46f27c81e3eec6e5adb83400980d163) [[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
 2018|BMVC 2018|SPG-Net: Segmentation Prediction and Guidance Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1805.03356.pdf)
 2018|ACCV 2018|Face Completion iwht Semantic Knowledge and Collaborative Adversarial Learning [[pdf]](https://arxiv.org/pdf/1812.03252.pdf)
 2018|ICASSP 2018|Edge-Aware Context Encoder for Image Inpainting [[pdf]](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0003156.pdf)
