@@ -69,8 +69,10 @@ Year|Proceeding|Title|Comment
 2019|CVPR 2019| Pluralistic Image Completion [[pdf]](https://arxiv.org/pdf/1903.04227.pdf) [[code]](https://github.com/lyndonzheng/Pluralistic) [[project]](http://www.chuanxiaz.com/publication/pluralistic/?tdsourcetag=s_pctim_aiomsg)|
 2019|CVPR 2019| **Deep Reinforcement Learning of Volume-guided Progressive View Inpainting for 3D Point Scene Completion from a Single Depth Image** [[pdf]](https://arxiv.org/pdf/1903.04019.pdf)|
 2019|CVPR 2019|**Foreground-aware Image Inpainting** [[pdf]](https://arxiv.org/pdf/1901.05945.pdf)  |
+2019|CVPR 2019 |Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery [[pdf]](https://arxiv.org/pdf/1903.11532.pdf) |
+2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) |
 2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
-2018|arXiv:1803.07422|**Patch-Based Image Inpainting with Generative Adversarial Networks** [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
+2018|arXiv:1803.07422|Patch-Based Image Inpainting with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
 2018|arXiv:1806.03589|Free-Form Image Inpainting with Gated Convolution [[pdf]](https://arxiv.org/pdf/1806.03589.pdf) [[project]](http://jiahuiyu.com/deepfill2/)|
 2018|arXiv:1808.04432|X-GANs: Image Reconstruction Made Easy for Extreme Cases [[pdf]](https://arxiv.org/pdf/1808.04432.pdf)|
 2018|arXiv:1811.03721|Learning Energy Based Inpainting for Optical Flow [[pdf]](https://arxiv.org/pdf/1811.03721.pdf)|
@@ -83,6 +85,8 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1902.06838|SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color [[pdf]](https://arxiv.org/pdf/1902.06838.pdf) [[code]](https://github.com/JoYoungjoo/SC-FEGAN)  |
 2019|arXiv:1902.09225|Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation [[pdf]](https://arxiv.org/pdf/1902.09225.pdf)|   
 2019|arXiv:1903.00450|Multi-Object Representation Learning with Iterative Variational Inference [[pdf]](https://arxiv.org/pdf/1903.00450.pdf) |    
+2019|arXiv:1903.04842 |Unsupervised motion saliency map estimation based on optical flow inpainting [[pdf]](https://arxiv.org/pdf/1903.04842.pdf) |
+2019|arXiv:1903.10885 |Learning Quadrangulated Patches For 3D Shape Processing [[pdf]](https://arxiv.org/pdf/1903.10885.pdf) |
 
 
 ------
