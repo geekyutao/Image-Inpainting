@@ -17,7 +17,7 @@ Year|Proceeding|Title|Comment
 2003|ICCV 2003|Learning How to Inpaint from Global Image Statistics [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1238360)|Diffusion-based
 2003|TOG 2003|Fragment-based image completion [[pdf]](http://delivery.acm.org/10.1145/890000/882267/p303-drori.pdf?ip=222.195.92.10&id=882267&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2EA4F9C023AC60E700%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1553430113_8d3cc7f5adde2fb3894043de791d9150) | Patch-based
 2004|TIP 2004|**Region Filling and Object Removal by Exemplar-Based Image Inpainting** [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/criminisi_tip2004.pdf)|Patch-based; Inpainting order
-2004|CVPR 2004|Space-Time Video Completion [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1315022) |
+2004|TPAMI 2004|Space-Time Video Completion [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1315022) |
 2005|SIGGRAPH 2005|Image Completion with Structure Propagation [[pdf]](http://jiansun.org/papers/ImageCompletion_SIGGRAPH05.pdf)|Patch-based
 2006|ISCS 2006|Image Compression with Structure Aware Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1692960)|
 2007|TOG 2007| Scene completion using millions of photographs [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.518&rep=rep1&type=pdf)|   
@@ -75,7 +75,9 @@ Year|Proceeding|Title|Comment
 2019|CVPR 2019 |Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery [[pdf]](https://arxiv.org/pdf/1903.11532.pdf) |
 2019|CVPR 2019|Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[pdf]](https://arxiv.org/pdf/1904.07475.pdf) [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
 2019|CVPR 2019|DeepFlow-Guided Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.02884.pdf) [[project]](https://nbei.github.io/video-inpainting.html)| Video
+2019|CVPR 2019|Deep video inapinting [[pdf]](https://arxiv.org/pdf/1905.01639.pdf)|Video
 2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) | Video
+2019|TNNLS 2019|PEPSI++: Fast and Lightweight Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.09010.pdf)|
 2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
 2018|arXiv:1803.07422|Patch-Based Image Inpainting with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
 2018|arXiv:1806.03589|Free-Form Image Inpainting with Gated Convolution [[pdf]](https://arxiv.org/pdf/1806.03589.pdf) [[project]](http://jiahuiyu.com/deepfill2/)|Gated Conv
@@ -94,6 +96,11 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1903.10885 |Learning Quadrangulated Patches For 3D Shape Processing [[pdf]](https://arxiv.org/pdf/1903.10885.pdf) |
 2019|arXiv:1904.10247 |Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN [[pdf]](https://arxiv.org/pdf/1904.10247.pdf) |Video
 2019|arXiv:1904.10795 |Graph-based Inpainting for 3D Dynamic Point Clouds [[pdf]](https://arxiv.org/pdf/1904.10795.pdf)| Point Cloud 
+2019|arXiv:1905.02882 |Frame-Recurrent Video Inpainting by Robust Optical Flow Inference [[pdf]](https://arxiv.org/pdf/1905.02882.pdf)| 
+2019|arXiv:1905.02949 |Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence [[pdf]](https://arxiv.org/pdf/1905.02949.pdf)| 
+2019|arXiv:1905.13066 |Align-and-Attend Network for Globally and Locally Coherent Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.13066.pdf)| 
+2019|arXiv:1906.00884 |Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)| 
+
 
 ------
 To be updated...
