@@ -29,6 +29,7 @@ Year|Proceeding|Title|Comment
 2011|ICIP 2011|Examplar-based inpainting based on local geometry [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6116441)|Inpainting order
 2012|TOG 2012|Combining inconsistent images using patch-based synthesis[[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.364.5147&rep=rep1&type=pdf)|Patch-based
 2014|TOG 2014|**Image completion using Planar structure guidance** [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/01/structure_completion_small.pdf)|Patch-based
+2014|TVCG 2014|High-Quality Real-Time Video Inpainting with PixMix [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714519)|Video
 2014|SIAM 2014|Video inpainting of complex scenes [[pdf]](https://arxiv.org/pdf/1503.05528.pdf)|Video
 2015|TIP 2015|Annihilating Filter-Based Low-Rank Hankel Matrix Approach for Image Inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7127011)|
 2015|TIP 2015|**Exemplar-Based Inpainting: Technical Review and New Heuristics for Better Geometric Reconstructions** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7056453)|
@@ -74,7 +75,7 @@ Year|Proceeding|Title|Comment
 2019|CVPR 2019|Foreground-aware Image Inpainting [[pdf]](https://arxiv.org/pdf/1901.05945.pdf)  |
 2019|CVPR 2019 |Privacy Protection in Street-View Panoramas using Depth and Multi-View Imagery [[pdf]](https://arxiv.org/pdf/1903.11532.pdf) |
 2019|CVPR 2019|Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[pdf]](https://arxiv.org/pdf/1904.07475.pdf) [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
-2019|CVPR 2019|DeepFlow-Guided Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.02884.pdf) [[project]](https://nbei.github.io/video-inpainting.html)| Video
+2019|CVPR 2019|Deep Flow-Guided Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.02884.pdf) [[project]](https://nbei.github.io/video-inpainting.html)| Video
 2019|CVPR 2019|Deep video inapinting [[pdf]](https://arxiv.org/pdf/1905.01639.pdf)|Video
 2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) | Video
 2019|TNNLS 2019|PEPSI++: Fast and Lightweight Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.09010.pdf)|
