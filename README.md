@@ -105,7 +105,12 @@ Year|Proceeding|Title|Comment
 
 ------
 There may be a big breakthrough in my research area in the near future, I will not update it temporarily, thanks.
+
 近期可能会有重大进展，暂时停更，谢谢！
+
+近い将来、私の研究領域で大きな進歩があるかもしれません、私はそれを一時的に更新しません、ありがとう。
+
+가까운 장래에 내 연구 분야에서 큰 돌파구가있을 수 있습니다. 일시적으로 업데이트하지 않을 것입니다.
 
 
 To be updated...
