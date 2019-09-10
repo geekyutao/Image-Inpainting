@@ -79,6 +79,9 @@ Year|Proceeding|Title|Comment
 2019|CVPR 2019|Deep video inapinting [[pdf]](https://arxiv.org/pdf/1905.01639.pdf)|Video
 2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) | Video
 2019|TNNLS 2019|PEPSI++: Fast and Lightweight Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.09010.pdf)|
+2019|ICCV 2019|Coherent Semantic Attention for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.12384.pdf) [[code]](https://github.com/KumapowerLIU/CSA-inpainting)| 
+2019|ICCV 2019|StructureFlow: Image Inpainting via Structure-aware Appearance Flow [[pdf]](https://arxiv.org/pdf/1908.03852.pdf) [[code]](https://github.com/RenYurui/StructureFlow) | 
+2019|ICCV 2019| Image Inpainting with Learnable Bidirectional Attention Maps [[pdf]](https://arxiv.org/pdf/1909.00968.pdf) [[code]](https://github.com/Vious/LBAM_inpainting) |
 2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
 2018|arXiv:1803.07422|Patch-Based Image Inpainting with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
 2018|arXiv:1806.03589|Free-Form Image Inpainting with Gated Convolution [[pdf]](https://arxiv.org/pdf/1806.03589.pdf) [[project]](http://jiahuiyu.com/deepfill2/)|Gated Conv
@@ -104,13 +107,5 @@ Year|Proceeding|Title|Comment
 
 
 ------
-There may be a big breakthrough in my research area in the near future, I will not update it temporarily, thanks.
-
-近期可能会有重大进展，暂时停更，谢谢！
-
-近い将来、私の研究領域で大きな進歩があるかもしれません、私はそれを一時的に更新しません、ありがとう。
-
-가까운 장래에 내 연구 분야에서 큰 돌파구가있을 수 있습니다. 일시적으로 업데이트하지 않을 것입니다.
-
 
 To be updated...
