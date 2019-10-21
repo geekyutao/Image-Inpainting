@@ -99,6 +99,7 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1903.00450|Multi-Object Representation Learning with Iterative Variational Inference [[pdf]](https://arxiv.org/pdf/1903.00450.pdf) |    
 2019|arXiv:1903.04842 |Unsupervised motion saliency map estimation based on optical flow inpainting [[pdf]](https://arxiv.org/pdf/1903.04842.pdf) |
 2019|arXiv:1903.10885 |Learning Quadrangulated Patches For 3D Shape Processing [[pdf]](https://arxiv.org/pdf/1903.10885.pdf) |
+2019|arXiv:1904.08060 |Deep Fusion Network for Image Completion [[pdf]](https://arxiv.org/abs/1904.08060) [[code]](https://github.com/hughplay/DFNet)|
 2019|arXiv:1904.10247 |Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN [[pdf]](https://arxiv.org/pdf/1904.10247.pdf) |Video
 2019|arXiv:1904.10795 |Graph-based Inpainting for 3D Dynamic Point Clouds [[pdf]](https://arxiv.org/pdf/1904.10795.pdf)| Point Cloud 
 2019|arXiv:1905.02882 |Frame-Recurrent Video Inpainting by Robust Optical Flow Inference [[pdf]](https://arxiv.org/pdf/1905.02882.pdf)| Video
