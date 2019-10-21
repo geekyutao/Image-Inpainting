@@ -80,6 +80,7 @@ Year|Proceeding|Title|Comment
 2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) | Video
 2019|TNNLS 2019|PEPSI++: Fast and Lightweight Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.09010.pdf)| 
 2019|ACM MM 2019| Progressive Image Inpainting with Full-Resolution Residual Network [[pdf]](https://arxiv.org/pdf/1907.10478.pdf) [[code]](https://github.com/ZongyuGuo/Inpainting_FRRN)| 
+2019|ACM MM 2019| Deep Fusion Network for Image Completion [[pdf]](https://arxiv.org/pdf/1904.08060.pdf) [[code]](https://github.com/hughplay/DFNet)| 
 2019|ICCVW 2019|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[pdf]](https://arxiv.org/pdf/1901.00212.pdf) [[code]](https://github.com/knazeri/edge-connect)|
 2019|ICCV 2019|Coherent Semantic Attention for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.12384.pdf) [[code]](https://github.com/KumapowerLIU/CSA-inpainting)| 
 2019|ICCV 2019|StructureFlow: Image Inpainting via Structure-aware Appearance Flow [[pdf]](https://arxiv.org/pdf/1908.03852.pdf) [[code]](https://github.com/RenYurui/StructureFlow) | 
