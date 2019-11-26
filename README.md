@@ -81,13 +81,24 @@ Year|Proceeding|Title|Comment
 2019|TNNLS 2019|PEPSI++: Fast and Lightweight Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.09010.pdf)| 
 2019|ACM MM 2019| Progressive Image Inpainting with Full-Resolution Residual Network [[pdf]](https://arxiv.org/pdf/1907.10478.pdf) [[code]](https://github.com/ZongyuGuo/Inpainting_FRRN)| 
 2019|ACM MM 2019| Deep Fusion Network for Image Completion [[pdf]](https://arxiv.org/pdf/1904.08060.pdf) [[code]](https://github.com/hughplay/DFNet)| 
+2019|ACM MM 2019| GAIN: Gradient Augmented Inpainting Network for Irregular Holes [[pdf]](https://dl.acm.org/citation.cfm?id=3350912) |
+2019|ACM MM 2019| Single-shot Semantic Image Inpainting with Densely Connected Generative Networks [[pdf]](https://dl.acm.org/citation.cfm?id=3350903) |
 2019|ICCVW 2019|EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [[pdf]](https://arxiv.org/pdf/1901.00212.pdf) [[code]](https://github.com/knazeri/edge-connect)|
 2019|ICCV 2019|Coherent Semantic Attention for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.12384.pdf) [[code]](https://github.com/KumapowerLIU/CSA-inpainting)| 
 2019|ICCV 2019|StructureFlow: Image Inpainting via Structure-aware Appearance Flow [[pdf]](https://arxiv.org/pdf/1908.03852.pdf) [[code]](https://github.com/RenYurui/StructureFlow) | 
+2019|ICCV 2019|Progressive Reconstruction of Visual Structure for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Progressive_Reconstruction_of_Visual_Structure_for_Image_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/jingyuanli001/PRVS-Image-Inpainting) | 
+2019|ICCV 2019| Localization of Deep Inpainting Using High-Pass Fully Convolutional Network [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Localization_of_Deep_Inpainting_Using_High-Pass_Fully_Convolutional_Network_ICCV_2019_paper.pdf)|
 2019|ICCV 2019| Image Inpainting with Learnable Bidirectional Attention Maps [[pdf]](https://arxiv.org/pdf/1909.00968.pdf) [[code]](https://github.com/Vious/LBAM_inpainting) |
+2019|ICCV 2019| Human Motion Prediction via Spatio-Temporal Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Hernandez_Human_Motion_Prediction_via_Spatio-Temporal_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/magnux/MotionGAN) | Motion
+2019|ICCV 2019|Free-Form Image Inpainting with Gated Convolution [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yu_Free-Form_Image_Inpainting_With_Gated_Convolution_ICCV_2019_paper.pdf) [[project]](http://jiahuiyu.com/deepfill2/)|
+2019|ICCV 2019| FiNet: Compatible and Diverse Fashion Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_FiNet_Compatible_and_Diverse_Fashion_Image_Inpainting_ICCV_2019_paper.pdf) | 
+2019|ICCV 2019| Copy-and-Paste Networks for Deep Video Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Copy-and-Paste_Networks_for_Deep_Video_Inpainting_ICCV_2019_paper.pdf) | Video
+2019|ICCV 2019 |Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chang_Free-Form_Video_Inpainting_With_3D_Gated_Convolution_and_Temporal_PatchGAN_ICCV_2019_paper.pdf) [[code]](https://github.com/amjltc295/Free-Form-Video-Inpainting) | Video
+2019|ICCV 2019| An Internal Learning Approach to Video Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_An_Internal_Learning_Approach_to_Video_Inpainting_ICCV_2019_paper.pdf) | Video
+2019|ICCV 2019| Vision-Infused Deep Audio Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Vision-Infused_Deep_Audio_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/Hangz-nju-cuhk/Vision-Infused-Audio-Inpainter-VIAI) | Audio
+2019|AAAI 2020| Region Normalization for Image Inpainting [[pdf]](https://arxiv.org/abs/1911.10375) [[code]](https://github.com/geekyutao/RN) |
 2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
 2018|arXiv:1803.07422|Patch-Based Image Inpainting with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
-2018|arXiv:1806.03589|Free-Form Image Inpainting with Gated Convolution [[pdf]](https://arxiv.org/pdf/1806.03589.pdf) [[project]](http://jiahuiyu.com/deepfill2/)|Gated Conv
 2018|arXiv:1808.04432|X-GANs: Image Reconstruction Made Easy for Extreme Cases [[pdf]](https://arxiv.org/pdf/1808.04432.pdf)|
 2018|arXiv:1811.03721|Learning Energy Based Inpainting for Optical Flow [[pdf]](https://arxiv.org/pdf/1811.03721.pdf)|
 2018|arXiv:1811.07104|On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs [[pdf]](https://arxiv.org/pdf/1811.07104.pdf)|
@@ -100,7 +111,6 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1903.00450|Multi-Object Representation Learning with Iterative Variational Inference [[pdf]](https://arxiv.org/pdf/1903.00450.pdf) |    
 2019|arXiv:1903.04842 |Unsupervised motion saliency map estimation based on optical flow inpainting [[pdf]](https://arxiv.org/pdf/1903.04842.pdf) |
 2019|arXiv:1903.10885 |Learning Quadrangulated Patches For 3D Shape Processing [[pdf]](https://arxiv.org/pdf/1903.10885.pdf) |
-2019|arXiv:1904.10247 |Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN [[pdf]](https://arxiv.org/pdf/1904.10247.pdf) |Video
 2019|arXiv:1904.10795 |Graph-based Inpainting for 3D Dynamic Point Clouds [[pdf]](https://arxiv.org/pdf/1904.10795.pdf)| Point Cloud 
 2019|arXiv:1905.02882 |Frame-Recurrent Video Inpainting by Robust Optical Flow Inference [[pdf]](https://arxiv.org/pdf/1905.02882.pdf)| Video
 2019|arXiv:1905.02949 |Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence [[pdf]](https://arxiv.org/pdf/1905.02949.pdf)| Video
