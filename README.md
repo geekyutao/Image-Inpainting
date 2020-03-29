@@ -2,6 +2,7 @@
 This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting).   
 Please contact me (geekyutao@163.com) if you find an interesting paper that I've missed. I would greatly appreciate it : )  
 
+I'm currently busy on some other projects. But I will update it as soon as possible！
 ## Traditional Methods
 Year|Proceeding|Title|Comment
 --|:--:|:--:|:--
