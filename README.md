@@ -123,7 +123,8 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1905.02949 |Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence [[pdf]](https://arxiv.org/pdf/1905.02949.pdf)| Video
 2019|arXiv:1905.13066 |Align-and-Attend Network for Globally and Locally Coherent Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.13066.pdf)| Video
 2019|arXiv:1906.00884 |Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)| 
-
+2020|arXiv:2003.06877 |Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/pdf/2003.06877.pdf)| 
+2020|arXiv:2003.06816 |VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/pdf/2003.06816.pdf)| 
 
 ------
 
