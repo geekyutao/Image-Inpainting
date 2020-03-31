@@ -125,6 +125,7 @@ Year|Proceeding|Title|Comment
 2019|arXiv:1906.00884 |Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)| 
 2020|arXiv:2003.06877 |Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/pdf/2003.06877.pdf)| 
 2020|arXiv:2003.06816 |VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/pdf/2003.06816.pdf)| 
+2019| LaFIn: Generative Landmark Guided Face Inpainting [[pdf]](https://arxiv.org/abs/1911.11394) [[code]](https://github.com/YaN9-Y/lafin) |
 
 ------
 
