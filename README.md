@@ -1,6 +1,6 @@
 # Image Inpainting #
 This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting).   
-Please contact me (geekyutao@163.com) if you find an interesting paper that I've missed. I would greatly appreciate it : )  
+Please contact me (geekyutao@163.com) if you find any interesting paper about inpainting that I missed. I would greatly appreciate it : )  
 
 I'm currently busy on some other projects. But I will update it as soon as possible！
 ## Traditional Methods
@@ -114,8 +114,8 @@ Year|Proceeding|Title|Comment
 2020|ECCV 2020| Learning Joint Spatial-Temporal Transformations for Video Inpainting [[pdf]](https://arxiv.org/abs/2007.10247) [[code]](https://github.com/researchmm/STTN) |
 2020|ECCV 2020| High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling [[pdf]](https://www.researchgate.net/publication/341639944_High-Resolution_Image_Inpainting_with_Iterative_Confidence_Feedback_and_Guided_Upsampling) |
 2020|ECCV 2020| DVI: Depth Guided Video Inpainting for Autonomous Driving [[pdf]](https://arxiv.org/abs/2007.08854) [[code]](https://github.com/ApolloScapeAuto/dataset-api) |
-2020|ECCV 2020| VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/abs/2003.06816) [[code]]() |
-2020|ECCV 2020| Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/abs/2007.08854) [[code]]() |
+2020|ECCV 2020| VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/abs/2003.06816) |
+2020|ECCV 2020| Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/abs/2007.08854) |
 
 ------
 
