@@ -78,7 +78,7 @@ Year|Proceeding|Title|Comment
 2019|CVPR 2019|Learning Pyramid-Context Encoder Network for High-Quality Image Inpainting [[pdf]](https://arxiv.org/pdf/1904.07475.pdf) [[code]](https://github.com/researchmm/PEN-Net-for-Inpainting)
 2019|CVPR 2019|Deep Flow-Guided Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.02884.pdf) [[project]](https://nbei.github.io/video-inpainting.html)| Video
 2019|CVPR 2019|Deep video inapinting [[pdf]](https://arxiv.org/pdf/1905.01639.pdf)|Video
-2019|CVPR Workshop 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) | Video
+2019|CVPRW 2019 |VORNet: Spatio-temporally Consistent Video Inpainting for Object Removal [[pdf]](https://arxiv.org/pdf/1904.06726) | Video
 2019|TNNLS 2019|PEPSI++: Fast and Lightweight Network for Image Inpainting [[pdf]](https://arxiv.org/pdf/1905.09010.pdf)| 
 2019|IJCAI 2019|MUSICAL: Multi-Scale Image Contextual Attention Learning for Inpainting [[pdf]](https://www.ijcai.org/proceedings/2019/0520.pdf) |
 2019|IJCAI 2019|Generative Image Inpainting with Submanifold Alignment [[pdf]](https://arxiv.org/pdf/1908.00211.pdf) |
