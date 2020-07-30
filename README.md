@@ -102,29 +102,20 @@ Year|Proceeding|Title|Comment
 2019|ICCV 2019| An Internal Learning Approach to Video Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_An_Internal_Learning_Approach_to_Video_Inpainting_ICCV_2019_paper.pdf) | Video
 2019|ICCV 2019| Vision-Infused Deep Audio Inpainting [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Vision-Infused_Deep_Audio_Inpainting_ICCV_2019_paper.pdf) [[code]](https://github.com/Hangz-nju-cuhk/Vision-Infused-Audio-Inpainter-VIAI) | Audio
 2019|AAAI 2020| Region Normalization for Image Inpainting [[pdf]](https://arxiv.org/abs/1911.10375) [[code]](https://github.com/geekyutao/RN) |
-
-## ArXiv or Unpublished
-Year|Proceeding|Title|Comment
---|:--:|:--:|:--
-2018|arXiv:1801.07632|High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1801.07632.pdf)|
-2018|arXiv:1803.07422|Patch-Based Image Inpainting with Generative Adversarial Networks [[pdf]](https://arxiv.org/pdf/1803.07422.pdf) [[code]](https://github.com/nashory/pggan-pytorch)|
-2018|arXiv:1808.04432|X-GANs: Image Reconstruction Made Easy for Extreme Cases [[pdf]](https://arxiv.org/pdf/1808.04432.pdf)|
-2018|arXiv:1811.07104|On Hallucinating Context and Background Pixels from a Face Mask using Multi-scale GANs [[pdf]](https://arxiv.org/pdf/1811.07104.pdf)|
-2018|arXiv:1811.09012|Multi-View Inpainting for RGB-D Sequence [[pdf]](https://arxiv.org/pdf/1811.09012.pdf)|
-2018|arXiv:1812.01458|Deep Inception Generative network for Cognitive Image Inpainting [[pdf]](https://arxiv.org/pdf/1812.01458.pdf)|
-2019|arXiv:1901.03396|Detecting Overfitting of Deep Generative Networks via Latent Recovery [[pdf]](https://arxiv.org/pdf/1901.03396.pdf)|
-2019|arXiv:1902.01096|Compatible and Diverse Fashion Image Inpainting [[pdf]](https://arxiv.org/pdf/1902.01096.pdf)  |
-2019|arXiv:1902.09225|Harmonizing Maximum Likelihood with GANs for Multimodal Conditional Generation [[pdf]](https://arxiv.org/pdf/1902.09225.pdf)|   
-2019|arXiv:1903.00450|Multi-Object Representation Learning with Iterative Variational Inference [[pdf]](https://arxiv.org/pdf/1903.00450.pdf) |    
-2019|arXiv:1903.04842 |Unsupervised motion saliency map estimation based on optical flow inpainting [[pdf]](https://arxiv.org/pdf/1903.04842.pdf) |
-2019|arXiv:1903.10885 |Learning Quadrangulated Patches For 3D Shape Processing [[pdf]](https://arxiv.org/pdf/1903.10885.pdf) |
-2019|arXiv:1904.10795 |Graph-based Inpainting for 3D Dynamic Point Clouds [[pdf]](https://arxiv.org/pdf/1904.10795.pdf)| Point Cloud 
-2019|arXiv:1905.02882 |Frame-Recurrent Video Inpainting by Robust Optical Flow Inference [[pdf]](https://arxiv.org/pdf/1905.02882.pdf)| Video
-2019|arXiv:1905.02949 |Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence [[pdf]](https://arxiv.org/pdf/1905.02949.pdf)| Video
-2019|arXiv:1905.13066 |Align-and-Attend Network for Globally and Locally Coherent Video Inpainting [[pdf]](https://arxiv.org/pdf/1905.13066.pdf)| Video
-2019|arXiv:1906.00884 |Fashion Editing with Multi-scale Attention Normalization [[pdf]](https://arxiv.org/pdf/1906.00884.pdf)| 
-2020|arXiv:2003.06877 |Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/pdf/2003.06877.pdf)| 
-2020|arXiv:2003.06816 |VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/pdf/2003.06816.pdf)| 
+2019|AAAI 2020| Learning to Incorporate Structure Knowledge for Image Inpainting [[pdf]](https://arxiv.org/abs/2002.04170) [[code]](https://github.com/YoungGod/sturcture-inpainting) |
+2020|CVPR 2020| Prior Guided GAN Based Semantic Inpainting [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/html/Lahiri_Prior_Guided_GAN_Based_Semantic_Inpainting_CVPR_2020_paper.html)  |
+2020|CVPR 2020| UCTGAN: Diverse Image Inpainting based on Unsupervised Cross-Space Translation [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_UCTGAN_Diverse_Image_Inpainting_Based_on_Unsupervised_Cross-Space_Translation_CVPR_2020_paper.html) |
+2020|CVPR 2020| Recurrent Feature Reasoning for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.html) [[code]](https://github.com/jingyuanli001/RFR-Inpainting) |
+2020|CVPR 2020| Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/html/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.html) [[code]](https://github.com/Ascend-Huawei/Ascend-Canada/tree/master/Models/Research_HiFIll_Model) |
+2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting) |
+2020|ECCV 2020| Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations [[pdf]](https://arxiv.org/abs/2007.06929) [[code]](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) |
+2020|ECCV 2020| Short-Term and Long-Term Context Aggregation Network for Video Inpainting | Video
+2020|ECCV 2020| Learning Object Placement by Inpainting for Compositional Data Augmentation |
+2020|ECCV 2020| Learning Joint Spatial-Temporal Transformations for Video Inpainting [[pdf]](https://arxiv.org/abs/2007.10247) [[code]](https://github.com/researchmm/STTN) |
+2020|ECCV 2020| High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling [[pdf]](https://www.researchgate.net/publication/341639944_High-Resolution_Image_Inpainting_with_Iterative_Confidence_Feedback_and_Guided_Upsampling) |
+2020|ECCV 2020| DVI: Depth Guided Video Inpainting for Autonomous Driving [[pdf]](https://arxiv.org/abs/2007.08854) [[code]](https://github.com/ApolloScapeAuto/dataset-api) |
+2020|ECCV 2020| VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/abs/2003.06816) [[code]]() |
+2020|ECCV 2020| Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/abs/2007.08854) [[code]]() |
 
 ------
 
