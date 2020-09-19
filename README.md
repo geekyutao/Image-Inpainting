@@ -108,6 +108,7 @@ Year|Proceeding|Title|Comment
 2020|CVPR 2020| Recurrent Feature Reasoning for Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Recurrent_Feature_Reasoning_for_Image_Inpainting_CVPR_2020_paper.html) [[code]](https://github.com/jingyuanli001/RFR-Inpainting) |
 2020|CVPR 2020| Contextual Residual Aggregation for Ultra High-Resolution Image Inpainting [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/html/Yi_Contextual_Residual_Aggregation_for_Ultra_High-Resolution_Image_Inpainting_CVPR_2020_paper.html) [[code]](https://github.com/Ascend-Huawei/Ascend-Canada/tree/master/Models/Research_HiFIll_Model) |
 2020|CVPR 2020| 3D Photography using Context-aware Layered Depth Inpainting [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shih_3D_Photography_Using_Context-Aware_Layered_Depth_Inpainting_CVPR_2020_paper.pdf) [[code]](https://github.com/vt-vl-lab/3d-photo-inpainting) |
+2020|CVPR 2020| Learning Oracle Attention for High-fidelity Face Completion [[pdf]](https://arxiv.org/pdf/2003.13903.pdf) |
 2020|ECCV 2020| Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations [[pdf]](https://arxiv.org/abs/2007.06929) [[code]](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) |
 2020|ECCV 2020| Short-Term and Long-Term Context Aggregation Network for Video Inpainting | Video
 2020|ECCV 2020| Learning Object Placement by Inpainting for Compositional Data Augmentation |
