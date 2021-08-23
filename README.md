@@ -117,7 +117,18 @@ Year|Proceeding|Title|Comment
 2020|ECCV 2020| DVI: Depth Guided Video Inpainting for Autonomous Driving [[pdf]](https://arxiv.org/abs/2007.08854) [[code]](https://github.com/ApolloScapeAuto/dataset-api) |
 2020|ECCV 2020| VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/abs/2003.06816) |
 2020|ECCV 2020| Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/abs/2007.08854) |
-
+2021|WACV 2021| Hyperrealistic Image Inpainting with Hypergraphs [[pdf]](https://arxiv.org/abs/2103.10022) [[code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting)|
+2021|CVPR 2021| Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf) [[code]](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)|
+2021|CVPR 2021| Image Inpainting with External-internal Learning and Monochromic Bottleneck [[pdf]](https://arxiv.org/abs/2104.09068) [[code]](https://github.com/Tengfei-Wang/external-internal-inpainting)|
+2021|CVPR 2021| PD-GAN: Probabilistic Diverse GAN for Image Inpainting [[pdf]](https://arxiv.org/abs/2105.02201) [[code]](https://github.com/KumapowerLIU/PD-GAN)|
+2021|CVPR 2021| Image Inpainting Guided by Coherence Priors of Semantics and Textures [[pdf]](https://arxiv.org/abs/2012.08054) |
+2021|CVPR 2021| FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.pdf) |
+2021|CVPR 2021| TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations [[pdf]](https://arxiv.org/abs/2103.15982) [[code]](https://github.com/yzhouas/TransFill-Reference-Inpainting)|
+2021|IJCAI 2021| Context-Aware Image Inpainting with Learned Semantic Priors [[pdf]](https://www.ijcai.org/proceedings/2021/0183.pdf) [[code]](https://github.com/WendongZh/SPL)|
+2021|IJCAI 2021| Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting [[pdf]](https://www.ijcai.org/proceedings/2021/0109.pdf) | Inpainting Detection
+2021|WWW 2021| Progressive Semantic Reasoning for Image Inpainting [[pdf]](https://dl.acm.org/doi/10.1145/3442442.3451142) [[code]](https://github.com/sfwyly/PSR-Net)|
+2021|ICCV 2021| Occlusion-Aware Video Object Inpainting [[pdf]](https://arxiv.org/abs/2108.06765) |
+2021|ICCV 2021| nternal Video Inpainting by Implicit Long-range Propagation [[pdf]](https://arxiv.org/abs/2108.01912) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting)|
 ------
 
 To be updated...
