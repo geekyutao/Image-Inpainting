@@ -1,10 +1,8 @@
 # Image Inpainting #
-This repository is a paper list of image inpainting inspired by @1900zyh's repository [Awsome-Image-Inpainting](https://github.com/1900zyh/Awsome-Image-Inpainting).   
-Please contact me (yutao666@mail.ustc.edu.cn) if you find any interesting paper about inpainting that I missed. I would greatly appreciate it : )  
+This repository is a paper list of image inpainting. Feel free to contact me (yutao666@mail.ustc.edu.cn) if you find any interesting paper about inpainting that I missed. I would greatly appreciate it : )  
 
-I'm currently busy on some other projects. But I will update it as soon as possible！
 ## Traditional Methods
-Year|Proceeding|Title|Comment
+Year|Proceeding|Title|Tag
 --|:--:|:--:|:--
 2000|SIGGRAPH 2000|Image Inpainting  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf)  |Diffusion-based
 2001|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)|Diffusion-based
@@ -39,7 +37,7 @@ Year|Proceeding|Title|Comment
 
 
 ## Deep-Learning-based Methods
-Year|Proceeding|Title|Comment
+Year|Proceeding|Title|Tag
 --|:--:|:--:|:--
 2012|NIPS 2012| Image denoising and inpainting with deep neural networks [[pdf]](http://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)|
 2014|GCPR 2014|Mask-specific inpainting with deep neural networks [[pdf]](https://link.springer.com/chapter/10.1007/978-3-319-11752-2_43)|
@@ -112,9 +110,9 @@ Year|Proceeding|Title|Comment
 2020|ECCV 2020| Rethinking Image Inpainting via a Mutual Encoder-Decoder with Feature Equalizations [[pdf]](https://arxiv.org/abs/2007.06929) [[code]](https://github.com/KumapowerLIU/Rethinking-Inpainting-MEDFE) |
 2020|ECCV 2020| Short-Term and Long-Term Context Aggregation Network for Video Inpainting | Video
 2020|ECCV 2020| Learning Object Placement by Inpainting for Compositional Data Augmentation |
-2020|ECCV 2020| Learning Joint Spatial-Temporal Transformations for Video Inpainting [[pdf]](https://arxiv.org/abs/2007.10247) [[code]](https://github.com/researchmm/STTN) |
+2020|ECCV 2020| Learning Joint Spatial-Temporal Transformations for Video Inpainting [[pdf]](https://arxiv.org/abs/2007.10247) [[code]](https://github.com/researchmm/STTN) | Video
 2020|ECCV 2020| High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling [[pdf]](https://www.researchgate.net/publication/341639944_High-Resolution_Image_Inpainting_with_Iterative_Confidence_Feedback_and_Guided_Upsampling) |
-2020|ECCV 2020| DVI: Depth Guided Video Inpainting for Autonomous Driving [[pdf]](https://arxiv.org/abs/2007.08854) [[code]](https://github.com/ApolloScapeAuto/dataset-api) |
+2020|ECCV 2020| DVI: Depth Guided Video Inpainting for Autonomous Driving [[pdf]](https://arxiv.org/abs/2007.08854) [[code]](https://github.com/ApolloScapeAuto/dataset-api) | Video
 2020|ECCV 2020| VCNet: A Robust Approach to Blind Image Inpainting [[pdf]](https://arxiv.org/abs/2003.06816) |
 2020|ECCV 2020| Guidance and Evaluation: Semantic-Aware Image Inpainting for Mixed Scenes [[pdf]](https://arxiv.org/abs/2007.08854) |
 2021|WACV 2021| Hyperrealistic Image Inpainting with Hypergraphs [[pdf]](https://arxiv.org/abs/2103.10022) [[code]](https://github.com/GouravWadhwa/Hypergraphs-Image-Inpainting)|
@@ -127,8 +125,8 @@ Year|Proceeding|Title|Comment
 2021|IJCAI 2021| Context-Aware Image Inpainting with Learned Semantic Priors [[pdf]](https://www.ijcai.org/proceedings/2021/0183.pdf) [[code]](https://github.com/WendongZh/SPL)|
 2021|IJCAI 2021| Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting [[pdf]](https://www.ijcai.org/proceedings/2021/0109.pdf) | Inpainting Detection
 2021|WWW 2021| Progressive Semantic Reasoning for Image Inpainting [[pdf]](https://dl.acm.org/doi/10.1145/3442442.3451142) [[code]](https://github.com/sfwyly/PSR-Net)|
-2021|ICCV 2021| Occlusion-Aware Video Object Inpainting [[pdf]](https://arxiv.org/abs/2108.06765) |
-2021|ICCV 2021| nternal Video Inpainting by Implicit Long-range Propagation [[pdf]](https://arxiv.org/abs/2108.01912) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting)|
+2021|ICCV 2021| Occlusion-Aware Video Object Inpainting [[pdf]](https://arxiv.org/abs/2108.06765) | Video
+2021|ICCV 2021| Internal Video Inpainting by Implicit Long-range Propagation [[pdf]](https://arxiv.org/abs/2108.01912) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting)| Video
 ------
 
 To be updated...
