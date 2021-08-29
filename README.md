@@ -122,9 +122,10 @@ Year|Proceeding|Title|Tag
 2021|CVPR 2021| Image Inpainting Guided by Coherence Priors of Semantics and Textures [[pdf]](https://arxiv.org/abs/2012.08054) |
 2021|CVPR 2021| FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.pdf) |
 2021|CVPR 2021| TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations [[pdf]](https://arxiv.org/abs/2103.15982) [[code]](https://github.com/yzhouas/TransFill-Reference-Inpainting)|
-2021|CVPR 2021| Prior Based Human Completion [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Prior_Based_Human_Completion_CVPR_2021_paper.pdf) |
+2021|CVPR 2021| Prior Based Human Completion [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Prior_Based_Human_Completion_CVPR_2021_paper.pdf) | Human completion
 2021|IJCAI 2021| Context-Aware Image Inpainting with Learned Semantic Priors [[pdf]](https://www.ijcai.org/proceedings/2021/0183.pdf) [[code]](https://github.com/WendongZh/SPL)|
-2021|IJCAI 2021| Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting [[pdf]](https://www.ijcai.org/proceedings/2021/0109.pdf) | Inpainting Detection
+2021|IJCAI 2021| Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting [[pdf]](https://www.ijcai.org/proceedings/2021/0109.pdf) | Inpainting detection
+2021|TCSVT 2021| IID-Net: Image Inpainting Detection via Neural Architecture Search and Attention [[pdf]](https://ieeexplore.ieee.org/document/9410590) [[code]](https://github.com/HighwayWu/InpaintingForensics) | Inpainting detection
 2021|WWW 2021| Progressive Semantic Reasoning for Image Inpainting [[pdf]](https://dl.acm.org/doi/10.1145/3442442.3451142) [[code]](https://github.com/sfwyly/PSR-Net)|
 2021|ICCV 2021| Occlusion-Aware Video Object Inpainting [[pdf]](https://arxiv.org/abs/2108.06765) | Video
 2021|ICCV 2021| Internal Video Inpainting by Implicit Long-range Propagation [[pdf]](https://arxiv.org/abs/2108.01912) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting)| Video
