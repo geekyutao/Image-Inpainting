@@ -129,6 +129,17 @@ Year|Proceeding|Title|Tag
 2021|WWW 2021| Progressive Semantic Reasoning for Image Inpainting [[pdf]](https://dl.acm.org/doi/10.1145/3442442.3451142) [[code]](https://github.com/sfwyly/PSR-Net)|
 2021|ICCV 2021| Occlusion-Aware Video Object Inpainting [[pdf]](https://arxiv.org/abs/2108.06765) | Video
 2021|ICCV 2021| Internal Video Inpainting by Implicit Long-range Propagation [[pdf]](https://arxiv.org/abs/2108.01912) [[code]](https://github.com/Tengfei-Wang/Implicit-Internal-Video-Inpainting)| Video
+2021|ICCV 2021| Distillation-Guided Image Inpainting [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Suin_Distillation-Guided_Image_Inpainting_ICCV_2021_paper.pdf) | 
+2021|ICCV 2021| Frequency-Aware Spatiotemporal Transformers for Video Inpainting Detection [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Frequency-Aware_Spatiotemporal_Transformers_for_Video_Inpainting_Detection_ICCV_2021_paper.pdf) | Inpainting detection
+2021|ICCV 2021| SLIDE: Single Image 3D Photography With Soft Layering and Depth-Aware Inpainting [[pdf]](https://export.arxiv.org/abs/2109.01068) [[project]](https://varunjampani.github.io/slide) | 
+2021|ICCV 2021| FuseFormer: Fusing Fine-Grained Information in Transformers for Video Inpainting [[pdf]](https://arxiv.org/abs/2109.02974v1) [[code]](https://github.com/ruiliu-ai/fuseformer) | Video
+2021|ICCV 2021| WaveFill: A Wavelet-Based Generation Network for Image Inpainting [[pdf]](https://arxiv.org/abs/2107.11027) | 
+2021|ICCV 2021| CR-Fill: Generative Image Inpainting With Auxiliary Contextual Reconstruction [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Zeng_CR-Fill_Generative_Image_Inpainting_With_Auxiliary_Contextual_Reconstruction_ICCV_2021_paper.pdf) [[code]](https://github.com/zengxianyu/crfill) | 
+2021|ICCV 2021| Learning a Sketch Tensor Space for Image Inpainting of Man-Made Scenes [[pdf]](https://arxiv.org/abs/2103.15087) [[project]](https://ewrfcas.github.io/MST_inpainting/) | 
+2021|ICCV 2021| Parallel Multi-Resolution Fusion Network for Image Inpainting [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Parallel_Multi-Resolution_Fusion_Network_for_Image_Inpainting_ICCV_2021_paper.pdf) | 
+2021|ICCV 2021| Flow-Guided Video Inpainting With Scene Templates [[pdf]](https://arxiv.org/abs/2108.12845) | 
+
+
 ------
 
 To be updated...
