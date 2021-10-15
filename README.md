@@ -138,7 +138,8 @@ Year|Proceeding|Title|Tag
 2021|ICCV 2021| Learning a Sketch Tensor Space for Image Inpainting of Man-Made Scenes [[pdf]](https://arxiv.org/abs/2103.15087) [[project]](https://ewrfcas.github.io/MST_inpainting/) | 
 2021|ICCV 2021| Parallel Multi-Resolution Fusion Network for Image Inpainting [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Parallel_Multi-Resolution_Fusion_Network_for_Image_Inpainting_ICCV_2021_paper.pdf) | 
 2021|ICCV 2021| Flow-Guided Video Inpainting With Scene Templates [[pdf]](https://arxiv.org/abs/2108.12845) | 
-
+2021|ICCV 2021| High-Fidelity Pluralistic Image Completion With Transformers [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_High-Fidelity_Pluralistic_Image_Completion_With_Transformers_ICCV_2021_paper.pdf) [[project]](http://raywzy.com/ICT/)| 
+2021|ICCV 2021| Learning High-Fidelity Face Texture Completion Without Complete Face Texture [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_High-Fidelity_Face_Texture_Completion_Without_Complete_Face_Texture_ICCV_2021_paper.pdf) | Face
 
 ------
 
