@@ -3,7 +3,7 @@ This repository is a paper list of image inpainting. Feel free to contact me (yu
 
 ## Traditional Methods
 Year|Proceeding|Title|Tag
---|:--:|:--:|:--
+--|:--:|:--:|:--:
 2000|SIGGRAPH 2000|Image Inpainting  [[pdf]](http://slipguru.disi.unige.it/readinggroup/papers_vis/bertalmio00inpainting.pdf)  |Diffusion-based
 2001|TIP 2001|Filling-in by joint interpolation of vector fields and gray levels [[pdf]](https://conservancy.umn.edu/bitstream/handle/11299/3462/1/1706.pdf)|Diffusion-based
 2001|CVPR 2001|Navier-stokes, ﬂuid dynamics, and image and video inpainting [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=990497)|
