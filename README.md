@@ -46,7 +46,7 @@ Year|Proceeding|Title|Tag
 
 
 
-## Deep-Learning-based Methods
+## Deep-learning-based Methods
 Year|Proceeding|Title|Tag
 --|:--:|:--:|:--
 2012|NIPS 2012| Image denoising and inpainting with deep neural networks [[pdf]](http://papers.nips.cc/paper/4686-image-denoising-and-inpainting-with-deep-neural-networks.pdf)|
@@ -150,6 +150,7 @@ Year|Proceeding|Title|Tag
 2021|ICCV 2021| Flow-Guided Video Inpainting With Scene Templates [[pdf]](https://arxiv.org/abs/2108.12845) | 
 2021|ICCV 2021| High-Fidelity Pluralistic Image Completion With Transformers [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_High-Fidelity_Pluralistic_Image_Completion_With_Transformers_ICCV_2021_paper.pdf) [[project]](http://raywzy.com/ICT/)| 
 2021|ICCV 2021| Learning High-Fidelity Face Texture Completion Without Complete Face Texture [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_High-Fidelity_Face_Texture_Completion_Without_Complete_Face_Texture_ICCV_2021_paper.pdf) | Face
+2021|WACV 2022| Resolution-robust Large Mask Inpainting with Fourier Convolutions [[pdf]](https://arxiv.org/pdf/2109.07161.pdf) [[code]](https://github.com/saic-mdal/lama) | Frequency
 
 ------
 
