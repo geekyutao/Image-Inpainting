@@ -150,7 +150,20 @@ Year|Proceeding|Title|Tag
 2021|ICCV 2021| Flow-Guided Video Inpainting With Scene Templates [[pdf]](https://arxiv.org/abs/2108.12845) | 
 2021|ICCV 2021| High-Fidelity Pluralistic Image Completion With Transformers [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_High-Fidelity_Pluralistic_Image_Completion_With_Transformers_ICCV_2021_paper.pdf) [[project]](http://raywzy.com/ICT/)| 
 2021|ICCV 2021| Learning High-Fidelity Face Texture Completion Without Complete Face Texture [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Kim_Learning_High-Fidelity_Face_Texture_Completion_Without_Complete_Face_Texture_ICCV_2021_paper.pdf) | Face
-2021|WACV 2022| Resolution-robust Large Mask Inpainting with Fourier Convolutions [[pdf]](https://arxiv.org/pdf/2109.07161.pdf) [[code]](https://github.com/saic-mdal/lama) | Frequency
+2021|WACV 2022| Resolution-robust Large Mask Inpainting with Fourier Convolutions [[pdf]](https://arxiv.org/pdf/2109.07161.pdf) [[code]](https://github.com/saic-mdal/lama) | 
+2022|CVPR 2022| Dual-path Image Inpainting with Auxiliary GAN Inversion | 
+2022|CVPR 2022| MAT: Mask-Aware Transformer for Large Hole Image Inpainting [[pdf]](https://arxiv.org/pdf/2203.15270.pdf) [[code]](https://github.com/fenglinglwb/MAT) | 
+2022|CVPR 2022| Incremental Transformer Structure Enhanced Image Inpainting with Masking Positional Encoding [[pdf]](https://arxiv.org/pdf/2203.00867.pdf) [[code]](https://github.com/DQiaole/ZITS_inpainting) | 
+2022|CVPR 2022| Reduce Information Loss in Transformers for Pluralistic Image Inpainting | 
+2022|CVPR 2022| MISF: Multi-level Interactive Siamese Filtering for High-Fidelity Image Inpainting [[pdf]](https://arxiv.org/pdf/2203.06304.pdf) [[code]](https://github.com/tsingqguo/misf) | 
+2022|CVPR 2022| RePaint: Inpainting using Denoising Diffusion Probabilistic Models [[pdf]](https://arxiv.org/pdf/2201.09865.pdf) [[code]](https://github.com/andreas128/RePaint) |
+2022|CVPR 2022| DLFormer:Discrete Latent Transformer for Video Inpainting | Video
+2022|CVPR 2022| The DEVIL is in the Details: A Diagnostic Evaluation Benchmark for Video Inpainting [[pdf]](https://arxiv.org/pdf/2105.05332.pdf) [[code]](https://github.com/MichiganCOG/devil) | Video
+2022|CVPR 2022| Towards An End-to-End Framework for Flow-Guided Video Inpainting [[pdf]](https://arxiv.org/pdf/2204.02663.pdf) [[code]](https://github.com/MCG-NKU/E2FGVI) | Video
+2022|CVPR 2022| Inertia-Guided Flow Completion and Style Fusion for Video Inpainting | Video
+2022|CVPR 2022| DLFormer:Discrete Latent Transformer for Video Inpainting | Video
+
+
 
 ------
 
