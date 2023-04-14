@@ -1,15 +1,9 @@
 # Image Inpainting #
 This repository is a paper list of image inpainting. Feel free to contact me (yutao666@mail.ustc.edu.cn) if you find any interesting paper about inpainting that I missed. I would greatly appreciate it : )  
 
-If you find this repo is helpful, please cite it.
-```
-@techreport{Yu_A_Survey_on_2019,
-author = {Yu, Tao},
-month = {3},
-title = {{A Survey on Image Inpainting Methods}},
-year = {2019}
-}
-```
+## 💡 Highlights
+- 2023-04-10: We develop an image inapinting model called [**Inpaint Anything**](https://github.com/geekyutao/Inpaint-Anything) which can remove, fill and replace ANYTHING.
+- 2022-10-12: Our [**Region Normalization**](https://github.com/geekyutao/RN) inpainting work achieves 100 citations.
 
 ## Traditional Methods
 Year|Proceeding|Title|Tag
